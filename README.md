@@ -32,14 +32,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto-04 foi destinado a apresentar conceitos básicos de HTML e CSS. Nesse projeto, tive a oportunidade de aprimorar meus conhecimentos a respeito de:
 
--responsividade, fazendo com que o site se adapte em diversas resoluções de tela;
--conceito de mobile-first;
--unidades de medidas flexíveis (% e rem), com essas medidas conseguimos construir aplicações totalmente responsivas;
--ajuste e alinhamento de texto de acordo com o layout do Figma;
--ajustes de adaptação do site para dispositivos móveis;
--propriedade "max-width" (estabelecendo uma largura máxima para os elementos);
--versão "Desktop", aplicando a @media respectiva ao tamanho do dispositivo;
--importância de testar o projeto em vários dispositivos (celulares, emuladores, dentre outros).
+- responsividade, fazendo com que o site se adapte em diversas resoluções de tela;
+- conceito de mobile-first;
+- unidades de medidas flexíveis (% e rem), com essas medidas conseguimos construir aplicações totalmente responsivas;
+- ajuste e alinhamento de texto de acordo com o layout do Figma;
+- ajustes de adaptação do site para dispositivos móveis;
+- propriedade "max-width" (estabelecendo uma largura máxima para os elementos);
+- versão "Desktop", aplicando a @media respectiva ao tamanho do dispositivo;
+- importância de testar o projeto em vários dispositivos (celulares, emuladores, dentre outros).
 
   
 ## :memo: Licença
