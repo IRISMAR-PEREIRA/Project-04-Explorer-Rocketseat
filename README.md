@@ -1,4 +1,4 @@
-<h1 align="center"> Project-03-Explorer-Rocketseat</h1>
+<h1 align="center"> Project-04-Explorer-Rocketseat</h1>
 
 <p align="center">
 Evento promovido pela Rocketseat para ensino de tecnologias WEB.
